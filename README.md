@@ -14,5 +14,5 @@
 <img src="IMG_3749.jpg" width= "300" height= "500">
 <h1> Enhypen Manifesto: Day 1 Tour 2022 </h1>
 <p> This was my second concert which I also went with my best friend to. I had pretty good seats for this concert so I really enjoyed the whole performance. Enhypen is one of my favortie groups, so it eas great to see them on their first U.S. show ever. </p>
-<img src="IMG_6074.heic" width= "300" height="500">
+<img src="IMG_6074.jpg" width= "300" height="500">
 </html>
