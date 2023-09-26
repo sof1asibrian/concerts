@@ -22,8 +22,6 @@
 <p> For this concert, I happened to be in Paris during summer break when Stray Kids was supposed to perform at this festival. Since I'm a huge fan of them I decided to go, and I went with my dad. At first, I was a little nervous because we would be in a foreign country, but it was pretty easy to get around since most people spoke English. The day of the concert, I was in Spain but we were going to be back in Paris 2 hours before the concert began. We arrived at our hotel quickly and took off, making it just in time to see Stray Kids perform. There was a huge crowd and I was excited to be part of it. It was so much fun and I would definitely do this again. 
 <img src="IMG_4552.jpg" width= "300" height= "500"> 
  <h1> Coming Soon: Enhypen Fate Tour 2023 
-  <p> October, 6 2023 <p> 
-<p> </p>
-
+  <p> October, 6 2023 </p>
 </html>
 
