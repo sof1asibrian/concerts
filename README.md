@@ -17,5 +17,6 @@
 <img src="IMG_6074.jpg" width= "300" height= "500">
 <h1> Stay Kids Maniac Encore 2022 </h1>
 <p> This was my second Stray Kids concert and I had really good seats. I was in floor Row 2, right in front of the stage. I was super excited since Stray Kids is my favorite group and I got to see them up close. I also went to this concert with my best friend. During soundcheck I played rock, paper, scissors with one of the members because I brought a sign with me. Overall, it was so much fun and I wish I could relive this experience. </p>
+<img src="RenderedImage.jpg" width= "300" height= "500">
 </html>
 
