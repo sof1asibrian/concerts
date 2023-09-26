@@ -5,7 +5,7 @@
 <head> 
  <title> Sofia's Concerts </title> 
   <style>
-  body {background:C8A2C8;}
+  body {background:#C8A2C8;}
   </style>
 </head>
 
